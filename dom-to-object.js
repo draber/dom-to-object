@@ -382,8 +382,3 @@
     }
 
 }(window));
-
-
-
-
-console.log(DomToObject.init());
